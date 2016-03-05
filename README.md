@@ -1,3 +1,5 @@
+#This is the first edit by CFY of a clone of Ariel's flask-demo directory. -3/5/2016
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
